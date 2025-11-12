@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.anheyu.com/">
+  <a href="https://blog.yunzhui.top/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=幸有所爱，何惧山海.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
@@ -8,7 +8,7 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.ynuzhui.cn/"><img src="https://img.shields.io/badge/Blog-博客-blue"></a>&emsp;
+  <a href="https://blog.yunzhui.top/"><img src="https://img.shields.io/badge/Blog-博客-blue"></a>&emsp;
   <a href="https://x.com/ynuzhui"><img src="https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
   <a href="https://www.youtube.com/channel/UCvOqXfCWo1A5_NsFy2zpeow"><img src="https://img.shields.io/badge/Youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://blog.csdn.net/m0_66176813?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
@@ -81,7 +81,7 @@
 <tr>
 <td valign="top">
 
-### 🤹‍♀️ <a href="https://ynuzhui.cn/" target="_blank">Home Page</a>
+### 🤹‍♀️ <a href="https://yunzhui.top/" target="_blank">Home Page</a>
 
 <!-- START_SECTION:blog -->
 
